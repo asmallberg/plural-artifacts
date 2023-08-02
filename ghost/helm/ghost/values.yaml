@@ -10,7 +10,7 @@ mysql:
   # TODO: remove image and mysqlVersion in the next release so we can update to MySQL 8.0
   image:
     repository: dkr.plural.sh/mysql/library/percona
-    tag: 5.7.35
+    tag: 5.7.39
   mysqlVersion: "5.7"
   backupURL: s3://
   backupSchedule: "0 0 0 * * *"
@@ -21,7 +21,7 @@ mysql:
 
 image:
   repository: dkr.plural.sh/ghost/library/ghost
-  tag: 5.49.2-alpine
+  tag: 5.49.3-alpine
   pullPolicy: IfNotPresent
 
 resources: {}
