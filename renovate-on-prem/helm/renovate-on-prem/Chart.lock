@@ -1,6 +1,6 @@
 dependencies:
 - name: whitesource-renovate
   repository: https://mend.github.io/renovate-on-prem
-  version: 3.1.4
-digest: sha256:ca1613ad4e7fb4d4716a67e43375c635dfc14687e42e617dc3086582f9e741e8
-generated: "2023-07-05T15:35:15.907830315Z"
+  version: 3.1.5
+digest: sha256:b94720394c441c527534897596fc002de739cf6f0c33927e8ab5d09966811b93
+generated: "2023-08-02T18:56:06.355335293Z"
