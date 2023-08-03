@@ -15,10 +15,10 @@ There's also a Makefile with some useful utilities for managing these files.
 
 ### Plural Contributor Program
 
-We are focused on properly compensating any contributions to the Plural platform, which includes a meaningful bounty for either adding an application to this repo or upgrading an existing one.  Currently the rewards are:
+We are focused on properly compensating any contributions to the Plural platform, which includes a meaningful bounty for either adding an application to this repo, that is currently on our roadmap (https://github.com/orgs/pluralsh/projects/2/views/2), or upgrading an existing one.  Currently the rewards are:
 
-* $150 for a tested, successful application upgrade
-* $500 for a new application onboarded
+* $75 for a tested, successful application upgrade
+* $300 for a new application onboarded
 
 To be eligible for the upgrade bounty you'll want to follow the steps for upgrading an application below and we simply need to confirm it was correct and properly tested.  To be eligible for an application onboarding bounty, the process is a bit more involved, but requires you to follow the add new application flow and then once we've deemed the application to have a `releaseStatus` of `BETA` or higher, the reward is eligible.
 
